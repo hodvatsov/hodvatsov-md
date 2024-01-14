@@ -1,2 +1,9 @@
-# test-md
-hodvatsov markdown files
+# [ՀՈԴՎԱԾՈՎ](https://hodvatsov.github.io/)
+
+Հոդվածովը մրցութային ծրագրավորման հայերեն տեսության հոդվածների հավաքածու է։
+
+### Խմբագիրներ
+[@HamletPetrosyan](https://www.github.com/HamletPetrosyan)
+
+### Իրենց մասնակցությունն են ունեցել
+_կխմբագրվի շուտով_
